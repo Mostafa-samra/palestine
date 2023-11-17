@@ -1,5 +1,5 @@
-# phala
-<img height="400"  src="[[https://raw.githubusercontent.com/techwithsam/flutter_webview/master/imgs/youtube_banner.png](https://github.com/Mostafa-samra/palestine/blob/main/images/plastin1.png?raw=true)](https://github.com/Mostafa-samra/palestine/blob/main/images/plastin1.png)">
+# palestine
+<img height="400"  src="[(https://github.com/Mostafa-samra/palestine/blob/main/images/plastin1.png?raw=true)]">
 A new Flutter project.
 
 ## Getting Started
